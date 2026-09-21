@@ -37,4 +37,4 @@ We reserve the right to update or modify these Terms at any time. Any changes wi
 
 If you have any questions, concerns, or bug reports regarding the App or these Terms, please contact us via: 
 
-- **Support:** [https://github.com/cssquirrel/zunnu-tos/issues](https://github.com/cssquirrel/zunnu-tos/issues)
+- **Support:** [https://github.com/cssquirrel/zunnu-tos/issues](https://github.com/cssquirrel/zunnu-support/issues)

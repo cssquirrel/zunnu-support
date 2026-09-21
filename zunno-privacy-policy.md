@@ -40,5 +40,4 @@ You have the right to request the deletion of any data the App has stored about 
 
 If you have any questions about this Privacy Policy or wish to request data deletion, please reach out via: 
 
-- **Support Server:** [Insert Discord Server Link]
-- **Alternative Contact:** [Insert username, GitHub Issues link, or dedicated email]
+- **Support:** [https://github.com/cssquirrel/zunnu-tos/issues](https://github.com/cssquirrel/zunnu-support/issues)
