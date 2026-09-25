@@ -2,9 +2,9 @@
   "latest_version": {
     "major": 0,
     "minor": 5,
-    "patch": 0,
-    "details": "Challenge Modes, Starfall mechanic, and tutorials",
-    "update_url": "https://timorjack.itch.io/zunnu#download",
+    "patch": 1,
+    "details": "Small leaderboard, starfall, & tutorial cleanups",
+    "update_url": "https://timorjack.itch.io/zunnu/devlog/1677078/patch-051",
     "update_img_url": ""
   },
   "news_items": [
