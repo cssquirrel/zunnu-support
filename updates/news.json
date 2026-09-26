@@ -1,10 +1,10 @@
 {
   "latest_version": {
     "major": 0,
-    "minor": 5,
-    "patch": 1,
-    "details": "Small leaderboard, starfall, & tutorial cleanups",
-    "update_url": "https://timorjack.itch.io/zunnu/devlog/1677078/patch-051",
+    "minor": 6,
+    "patch": 0,
+    "details": "clean bucket chains, hard mode update, ux enhancements",
+    "update_url": "https://timorjack.itch.io/zunnu/devlog/1678286/version-060-clean-bucket-chains-hard-mode-change",
     "update_img_url": ""
   },
   "news_items": [
@@ -14,7 +14,7 @@
       "date": "2026-09-23",
       "summary": "Zunnu is now available with puzzle and challenge modes.",
       "button_text": "Get More Details",
-      "url": "https://timorjack.itch.io/zunnu/devlog/1672337/playtest-is-live",
+      "url": "https://timorjack.itch.io/zunnu",
       "update_img_url": ""
     }
   ]
